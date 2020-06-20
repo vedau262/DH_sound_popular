@@ -1,0 +1,397 @@
+{
+  "ringtones": [
+      
+    {
+      "name":  {
+        "en": "Apprenons le Cha Cha Cha"},
+      "file_name": "apprenons_le_cha_cha_cha.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Juanitos",
+      "author_url": "http://freemusicarchive.org/music/Juanitos/",
+      "licence_name": "(CC BY 2.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+      "cat_id": 8
+    },
+      
+    {
+      "name":  {
+        "en": "Así fué"},
+      "file_name": "asi_fue.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Quartiere Latino ballo 1",
+      "author_url": "https://soundcloud.com/quartiere-latino-ballo",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+
+    {
+      "name":  {
+        "en": "Back on Track 1"},
+      "file_name": "back_on_track_1.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+      
+    {
+      "name":  {
+        "en": "Back on Track 2"},
+      "file_name": "back_on_track_2.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+    
+    {
+      "name":  {
+        "en": "BossaBossa 1"},
+      "file_name": "bossabossa_1.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+      
+    {
+      "name":  {
+        "en": "BossaBossa 2"},
+      "file_name": "bossabossa_2.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+      
+    {
+      "name":  {
+        "en": "BossaBossa 3"},
+      "file_name": "bossabossa_3.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+
+    {
+      "name":  {
+        "en": "BossaBossa 4"},
+      "file_name": "bossabossa_4.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+      
+    {
+      "name":  {
+        "en": "Casa Bossa Nova 1"},
+      "file_name": "casa_bossa_nova_1.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8  
+    },
+
+    {
+      "name":  {
+        "en": "Casa Bossa Nova 2"},
+      "file_name": "casa_bossa_nova_2.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+
+    {
+      "name":  {
+        "en": "Casa Bossa Nova 3"},
+      "file_name": "casa_bossa_nova_3.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+      
+    {
+      "name":  {
+        "en": "Casa Bossa Nova 4"},
+      "file_name": "casa_bossa_nova_4.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+
+    {
+      "name":  {
+        "en": "Cuban Sandwich 1"},
+      "file_name": "cuban_sandwich_1.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+    
+    {
+      "name":  {
+        "en": "Cuban Sandwichv 2"},
+      "file_name": "cuban_sandwich_2.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+      
+    {
+      "name":  {
+        "en": "Eternity 1"},
+      "file_name": "eternity_1.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+      
+          
+    {
+      "name":  {
+        "en": "Eternity 2"},
+      "file_name": "eternity_2.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+      
+          
+    {
+      "name":  {
+        "en": "Exotica"},
+      "file_name": "exotica.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Juanitos",
+      "author_url": "http://freemusicarchive.org/music/Juanitos/",
+      "licence_name": "(CC BY 2.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+      "cat_id": 8
+    },
+
+    {
+      "name":  {
+        "en": "Fidel"},
+      "file_name": "fidel.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "GoSoundTrack",
+      "author_url": "http://www.gosoundtrack.com/",
+      "licence_name": "(CC BY 4.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/4.0/",
+      "cat_id": 8
+    },
+      
+    {
+      "name":  {
+        "en": "Fiesta Grande"},
+      "file_name": "fiesta_grande.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "GoSoundTrack",
+      "author_url": "http://www.gosoundtrack.com/  ",
+      "licence_name": "(CC BY 4.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/4.0",
+      "cat_id": 8
+    },
+    
+    {
+      "name":  {
+        "en": "Limbodrome"},
+      "file_name": "limbodrome.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Juanitos",
+      "author_url": "http://freemusicarchive.org/music/Juanitos/",
+      "licence_name": "(CC BY 2.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+      "cat_id": 8
+    },
+      
+    {
+      "name":  {
+        "en": "Quasi Motion 1"},
+      "file_name": "quasi_motion_1.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+      
+    {
+      "name":  {
+        "en": "Quasi Motion 2"},
+      "file_name": "quasi_motion_2.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+
+    {
+      "name":  {
+        "en": "Que Bonita 1"},
+      "file_name": "que_bonita_1.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "GoSoundTrack",
+      "author_url": "http://www.gosoundtrack.com/",
+      "licence_name": "(CC BY 4.0 )",
+      "licence_url": "http://creativecommons.org/licenses/by/4.0",
+      "cat_id": 8
+    },
+      
+    {
+      "name":  {
+        "en": "Que Bonita 2"},
+      "file_name": "que_bonita_2.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "GoSoundTrack",
+      "author_url": "http://www.gosoundtrack.com/",
+      "licence_name": "(CC BY 4.0 )",
+      "licence_url": "http://creativecommons.org/licenses/by/4.0",
+      "cat_id": 8  
+    },
+
+    {
+      "name":  {
+        "en": "Rouge 1 (Romantic Spanish Guitar)"},
+      "file_name": "romantic_spanish_guitar_1.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Marwa El Attar",
+      "author_url": "http://soundcloud.com/marwa-el-attar",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+
+    {
+      "name":  {
+        "en": "Rouge 2 (Romantic Spanish Guitar)"},
+      "file_name": "romantic_spanish_guitar_2.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Marwa El Attar",
+      "author_url": "http://soundcloud.com/marwa-el-attar",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+      
+    {
+      "name":  {
+        "en": "Rouge 3 (Romantic Spanish Guitar)"},
+      "file_name": "romantic_spanish_guitar_3.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Marwa El Attar",
+      "author_url": "http://soundcloud.com/marwa-el-attar",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+
+    {
+      "name":  {
+        "en": "Street Party 1"},
+      "file_name": "street_party_1.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+      
+    {
+      "name":  {
+        "en": "Street Party 2"},
+      "file_name": "street_party_2.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    },
+      
+    {
+      "name":  {
+        "en": "Wepa"},
+      "file_name": "wepa.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Music of Latin America/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 8
+    }
+      
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "ringtones": [
+      
+    {
+      "name":  {
+        "en": "Intro"},
+      "file_name": "intro.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Quantum Jazz",
+      "author_url": "http://freemusicarchive.org/music/Quantum_Jazz/",
+      "licence_name": "(CC BY-SA 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "cat_id": 7
+    },
+      
+    {
+      "name":  {
+        "en": "Against The Current"},
+      "file_name": "against_the_current.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Monterey Jazz Festival",
+      "author_url": "https://soundcloud.com/mjf",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 7
+    },
+      
+    {
+      "name":  {
+        "en": "Aim to Stay"},
+      "file_name": "aim_to_stay.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "William Ross Chernoff's Nomads",
+      "author_url": "http://freemusicarchive.org/music/William_Ross_Chernoffs_Nomads/",
+      "licence_name": "(CC BY 4.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "cat_id": 7
+    },
+
+    {
+      "name":  {
+        "en": "All About The Sun"},
+      "file_name": "all_about_the_sun.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Quantum Jazz",
+      "author_url": "http://freemusicarchive.org/music/Quantum_Jazz/",
+      "licence_name": "(CC BY-SA 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "cat_id": 7
+    },
+
+    {
+      "name":  {
+        "en": "Apero Hour"},
+      "file_name": "apero_hour.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "cat_id": 7
+    },
+    
+    {
+      "name":  {
+        "en": "As I Figure"},
+      "file_name": "as_i_figure_jazz_ver.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "cat_id": 7
+    },
+      
+    {
+      "name":  {
+        "en": "Backbay Lounge"},
+      "file_name": "backbay_lounge.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "cat_id": 7
+    },
+      
+    {
+      "name":  {
+        "en": "Backward Steps"},
+      "file_name": "backward_steps.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Unheard Music Concepts",
+      "author_url": "http://freemusicarchive.org/music/Unheard_Music_Concepts/",
+      "licence_name": "(CC BY 4.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "cat_id": 7
+    },
+
+    {
+      "name":  {
+        "en": "Barbara"},
+      "file_name": "barbara.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "U.S. Army Blues",
+      "author_url": "http://freemusicarchive.org/music/US_Army_Blues/",
+      "licence_name": "(CC0 1.0)",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "cat_id": 7
+    },
+      
+    {
+      "name":  {
+        "en": "Bossa Antigua"},
+      "file_name": "bossa_antigua.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 7  
+    },
+
+    {
+      "name":  {
+        "en": "BugaBlue"},
+      "file_name": "buga_blue.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "U.S. Army Blues",
+      "author_url": "http://freemusicarchive.org/music/US_Army_Blues/",
+      "licence_name": "(CC0 1.0)",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "cat_id": 7
+    },
+
+    {
+      "name":  {
+        "en": "Chill Tune - Classical Guitar Jazz Arrangement"},
+      "file_name": "chill_tune.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Nicolai Heidlas Music",
+      "author_url": "https://soundcloud.com/nicolai-heidlas",
+      "licence_name": "(CC BY 4.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "cat_id": 7
+    },
+      
+    {
+      "name":  {
+        "en": "Chillin With a Drink at the Club"},
+      "file_name": "chillin_with_a_drink_at_the_club.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Loyalty Freak Music",
+      "author_url": "http://freemusicarchive.org/music/Loyalty_Freak_Music/",
+      "licence_name": "(CC0 1.0)",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "cat_id": 7
+    },
+
+    {
+      "name":  {
+        "en": "Crinoline Dreams"},
+      "file_name": "crinoline_dreams.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 7
+    },
+    
+    {
+      "name":  {
+        "en": "Dans la Piscine"},
+      "file_name": "dans_la_piscine.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Frederic Lardon feat. Laura Palmée",
+      "author_url": "http://freemusicarchive.org/music/Frederic_Lardon_feat_Laura_Palme/",
+      "licence_name": "(CC0 1.0)",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "cat_id": 7
+    },
+      
+    {
+      "name":  {
+        "en": "Faster Does It"},
+      "file_name": "faster_does_it.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://freemusicarchive.org/music/Kevin_MacLeod/",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 7
+    },
+
+    {
+      "name":  {
+        "en": "Four-Way"},
+      "file_name": "four_way.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "William Ross Chernoff's Nomads",
+      "author_url": "http://freemusicarchive.org/music/William_Ross_Chernoffs_Nomads/",
+      "licence_name": "(CC BY 4.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "cat_id": 7
+    },
+      
+          
+    {
+      "name":  {
+        "en": "Gracias"},
+      "file_name": "gracias.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Milton Arias",
+      "author_url": "http://freemusicarchive.org/music/Milton_Arias/",
+      "licence_name": "(CC BY-SA 4.0)",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "cat_id": 7
+    },
+
+    {
+      "name":  {
+        "en": "Gray Skies"},
+      "file_name": "gray_skies.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "LosCafetales",
+      "author_url": "https://soundcloud.com/loscafetales",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 7
+    },
+      
+    {
+      "name":  {
+        "en": "Hard Boiled"},
+      "file_name": "hard_boiled.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 7
+    },
+    
+    {
+      "name":  {
+        "en": "In Shadows"},
+      "file_name": "in_shadows.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "William Ross Chernoff's Nomads",
+      "author_url": "http://freemusicarchive.org/music/William_Ross_Chernoffs_Nomads/",
+      "licence_name": "(CC BY 4.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "cat_id": 7
+    },
+      
+    {
+      "name":  {
+        "en": "Jazz Brunch"},
+      "file_name": "jazz_brunch.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 7
+    },
+
+    {
+      "name":  {
+        "en": "Jingle Jazz"},
+      "file_name": "jingle_jazz.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Quantum Jazz",
+      "author_url": "http://freemusicarchive.org/music/Quantum_Jazz/",
+      "licence_name": "(CC BY-SA 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "cat_id": 7
+    },
+      
+    {
+      "name":  {
+        "en": "Kelli's Number"},
+      "file_name": "kellis_number.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "U.S. Army Blues",
+      "author_url": "http://freemusicarchive.org/music/US_Army_Blues/",
+      "licence_name": "(CC0 1.0)",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "cat_id": 7  
+    },
+
+    {
+      "name":  {
+        "en": "Omnibus"},
+      "file_name": "luca_mendoza_omnibus.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Luca Mendoza - Monterey Jazz Festival",
+      "author_url": "https://soundcloud.com/mjf",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "cat_id": 7
+    },
+
+    {
+      "name":  {
+        "en": "Main Stem"},
+      "file_name": "main_stem.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "U.S. Army Blues",
+      "author_url": "http://freemusicarchive.org/music/US_Army_Blues/",
+      "licence_name": "(CC0 1.0)",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "cat_id": 7
+    },
+      
+    {
+      "name":  {
+        "en": "Not On The Bus"},
+      "file_name": "not_on_the_bus.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "U.S. Army Blues",
+      "author_url": "http://freemusicarchive.org/music/US_Army_Blues/",
+      "licence_name": "(CC0 1.0)",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "cat_id": 7
+    },
+
+    {
+      "name":  {
+        "en": "Nouvelle Noel"},
+      "file_name": "nouvelle_noel.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 7
+    },
+      
+    {
+      "name":  {
+        "en": "Off to Osaka"},
+      "file_name": "off_to_osaka.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://freemusicarchive.org/music/Kevin_MacLeod/",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 7
+    },
+      
+    {
+      "name":  {
+        "en": "Orbiting a Distant Planet"},
+      "file_name": "orbiting_a_distant_planet.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Quantum Jazz",
+      "author_url": "http://freemusicarchive.org/music/Quantum_Jazz/",
+      "licence_name": "(CC BY-SA 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "cat_id": 7
+    },
+    
+    {
+      "name":  {
+        "en": "Poppers and Prosecco"},
+      "file_name": "poppers_and_prosecco.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 7
+    },
+      
+          
+    {
+      "name":  {
+        "en": "Quirquincho"},
+      "file_name": "quirquincho.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Milton Arias",
+      "author_url": "http://freemusicarchive.org/music/Milton_Arias/",
+      "licence_name": "(CC BY-SA 4.0)",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "cat_id": 7
+    },
+
+    {
+      "name":  {
+        "en": "Rocket Power"},
+      "file_name": "rocket_power.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "cat_id": 7
+    },
+      
+    {
+      "name":  {
+        "en": "Santa Is Coming To Town"},
+      "file_name": "santa_is_coming_to_town_jazz.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Nicolai Heidlas Music",
+      "author_url": "https://soundcloud.com/nicolai-heidlas",
+      "licence_name": "(CC BY 4.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "cat_id": 7
+    },
+      
+    {
+      "name":  {
+        "en": "Semi-Funk"},
+      "file_name": "semi_funk.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 7
+    },
+      
+    {
+      "name":  {
+        "en": "Smooth Lovin"},
+      "file_name": "smooth_lovin.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 7
+    },
+
+    {
+      "name":  {
+        "en": "Stardust"},
+      "file_name": "stardust.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "U.S. Army Blues",
+      "author_url": "http://freemusicarchive.org/music/US_Army_Blues/",
+      "licence_name": "(CC0 1.0)",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "cat_id": 7
+    },
+
+    {
+      "name":  {
+        "en": "Swingin'"},
+      "file_name": "swingin_jazz_blues.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Nicolai Heidlas Music",
+      "author_url": "https://soundcloud.com/nicolai-heidlas",
+      "licence_name": "(CC BY 4.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "cat_id": 7
+    },
+    
+    {
+      "name":  {
+        "en": "Undertale"},
+      "file_name": "undertale_megalovania_elevator_jazz.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "EternalSushi",
+      "author_url": "https://soundcloud.com/eternalsushi",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 7
+    },
+      
+    {
+      "name":  {
+        "en": "Vidala en Verde"},
+      "file_name": "vidala_en_verde.mp3", 
+ "file_path": "https://raw.githubusercontent.com/vedau262/DH_sound_popular/master/Jazz/", 
+ "duration": "11111",
+      "author": "Milton Arias",
+      "author_url": "http://freemusicarchive.org/music/Milton_Arias/",
+      "licence_name": "(CC BY-SA 4.0)",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "cat_id": 7
+    }
+      
+  ]
+}

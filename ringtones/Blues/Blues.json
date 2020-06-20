@@ -1,0 +1,382 @@
+{
+  "ringtones": [
+      
+    {
+      "name":  {
+        "en": "A Foolish Game"},
+      "file_name": "a_foolish_game.mp3",
+      "author": "Alex",
+      "author_url": "http://dig.ccmixter.org/people/AlexBeroza",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+      
+    {
+      "name":  {
+        "en": "A Trio"},
+      "file_name": "a_trio.mp3",
+      "author": "debbizo",
+      "author_url": "http://dig.ccmixter.org/people/debbizo",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+
+    {
+      "name":  {
+        "en": "Absolutely Clear (ft Jeris & Goldfish)"},
+      "file_name": "absolutely_clear_ft_jeris_goldfish.mp3",
+      "author": "SackJo22",
+      "author_url": "http://dig.ccmixter.org/people/SackJo22",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+      
+    {
+      "name":  {
+        "en": "Absolutely Clear (Instr. Mix)"},
+      "file_name": "absolutely_clear_original.mp3",
+      "author": "Jeris",
+      "author_url": "http://dig.ccmixter.org/people/VJ_Memes",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+    
+    {
+      "name":  {
+        "en": "Absolutely Clear"},
+      "file_name": "absolutely_clear_v2.mp3",
+      "author": "Jeris",
+      "author_url": "http://dig.ccmixter.org/people/VJ_Memes",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+      
+    {
+      "name":  {
+        "en": "Bedtime Blues"},
+      "file_name": "bedtime_blues.mp3",
+      "author": "Down With Ben",
+      "author_url": "http://dig.ccmixter.org/people/cuajitoben",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+      
+    {
+      "name":  {
+        "en": "Melvin Taylor - Blue Jeans Blues"},
+      "file_name": "blue_jeans_blues.mp3",
+      "author": "freedom.female",
+      "author_url": "https://soundcloud.com/freedom-female",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+
+    {
+      "name":  {
+        "en": "Blue Like Venus"},
+      "file_name": "blue_like_venus.mp3",
+      "author": "spinningmerkaba",
+      "author_url": "http://dig.ccmixter.org/people/jlbrock44",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+      
+    {
+      "name":  {
+        "en": "I Can't Stop Lovin'"},
+      "file_name": "cant_stop.mp3",
+      "author": "Marcio Rocha Guitar Blues",
+      "author_url": "https://soundcloud.com/marcio-rocha-guitarblues",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1  
+    },
+
+    {
+      "name":  {
+        "en": "CC Mixter Blues"},
+      "file_name": "cc_mixter_blues.mp3",
+      "author": "Steven M Bryant",
+      "author_url": "http://dig.ccmixter.org/people/stevieb357",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+
+    {
+      "name":  {
+        "en": "Dark Side of your Heart"},
+      "file_name": "dark_side_of_your_heart.mp3",
+      "author": "Jeris",
+      "author_url": "http://dig.ccmixter.org/people/VJ_Memes",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+      
+    {
+      "name":  {
+        "en": "Dudel Blues"},
+      "file_name": "dudel_blues.mp3",
+      "author": "Nicolai Heidlas Music",
+      "author_url": "https://soundcloud.com/nicolai-heidlas",
+      "licence_name": "(CC BY 4.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/4.0/",
+      "cat_id": 1
+    },
+
+    {
+      "name":  {
+        "en": "Free Music & Free Beer"},
+      "file_name": "free_music_free_beer.mp3",
+      "author": "Alex",
+      "author_url": "http://dig.ccmixter.org/people/AlexBeroza",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+    
+    {
+      "name":  {
+        "en": "Happy Happy Game Show"},
+      "file_name": "happy_happy_game_show.mp3",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+      
+    {
+      "name":  {
+        "en": "Hustle"},
+      "file_name": "hustle.mp3",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+      
+          
+    {
+      "name":  {
+        "en": "Jolanta Blues"},
+      "file_name": "jolanta_blues.mp3",
+      "author": "Doxent Zsigmond",
+      "author_url": "http://dig.ccmixter.org/people/doxent",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+      
+          
+    {
+      "name":  {
+        "en": "Last Call"},
+      "file_name": "last_call.mp3",
+      "author": "Stefan Kartenberg",
+      "author_url": "http://dig.ccmixter.org/people/JeffSpeed68",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+
+    {
+      "name":  {
+        "en": "Live at the mixtro"},
+      "file_name": "live_at_the_mixtro.mp3",
+      "author": "Jeris",
+      "author_url": "http://dig.ccmixter.org/people/VJ_Memes",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+      
+    {
+      "name":  {
+        "en": "Matt's Blues"},
+      "file_name": "matts_blues.mp3",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "cat_id": 1
+    },
+    
+    {
+      "name":  {
+        "en": "Me Dijiste"},
+      "file_name": "me_dijiste_ok.mp3",
+      "author": "Black Beer&Blues",
+      "author_url": "https://soundcloud.com/user-897395585",
+      "licence_name": "(CC BY-SA 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "cat_id": 1
+    },
+      
+    {
+      "name":  {
+        "en": "Nile's Blues"},
+      "file_name": "niles_blues.mp3",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+      
+    {
+      "name":  {
+        "en": "Occupy Walk"},
+      "file_name": "occupy_walk.mp3",
+      "author": "Stefan Kartenberg",
+      "author_url": "http://dig.ccmixter.org/people/JeffSpeed68",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+
+    {
+      "name":  {
+        "en": "OctoBlues"},
+      "file_name": "octo_blues.mp3",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "cat_id": 1
+    },
+      
+    {
+      "name":  {
+        "en": "Porch Blues"},
+      "file_name": "porch_blues.mp3",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1  
+    },
+
+    {
+      "name":  {
+        "en": "Probably Shouldn't"},
+      "file_name": "probably_shouldnt.mp3",
+      "author": "Stefan Kartenberg",
+      "author_url": "http://dig.ccmixter.org/people/JeffSpeed68",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+
+    {
+      "name":  {
+        "en": "Rocket Power"},
+      "file_name": "rocket_power.mp3",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com/",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+      
+    {
+      "name":  {
+        "en": "Stormy Blues"},
+      "file_name": "stormy_blues.mp3",
+      "author": "arnebhus",
+      "author_url": "https://soundcloud.com/arnebhus",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+
+    {
+      "name":  {
+        "en": "The Remixin' Blues"},
+      "file_name": "the_remixin_blues.mp3",
+      "author": "unreal_dm",
+      "author_url": "http://dig.ccmixter.org/people/unreal_dm",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+      
+    {
+      "name":  {
+        "en": "The Remixin' Latino Blues"},
+      "file_name": "the_remixin_latino_blues.mp3",
+      "author": "wellman",
+      "author_url": "http://dig.ccmixter.org/people/wellman",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+      
+    {
+      "name":  {
+        "en": "Tu Tranquilo"},
+      "file_name": "tu_tranquilo.mp3",
+      "author": "Black Beer&Blues",
+      "author_url": "https://soundcloud.com/user-897395585",
+      "licence_name": "(CC BY-SA 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "cat_id": 1
+    },
+    
+    {
+      "name":  {
+        "en": "Turbo Tornado"},
+      "file_name": "turbo_tornado.mp3",
+      "author": "Admiral Bob",
+      "author_url": "http://dig.ccmixter.org/people/admiralbob77",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+      
+          
+    {
+      "name":  {
+        "en": "Whiskey on the Mississippi"},
+      "file_name": "whiskey_on_the_mississippi.mp3",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+
+    {
+      "name":  {
+        "en": "Worrying the blues away"},
+      "file_name": "worrying_the_blues_away.mp3",
+      "author": "DJ Ecklectic Mick",
+      "author_url": "https://soundcloud.com/ecklecticmick",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+      "cat_id": 1
+    },
+      
+    {
+      "name":  {
+        "en": "ZigZag"},
+      "file_name": "zigzag.mp3",
+      "author": "Kevin MacLeod",
+      "author_url": "http://incompetech.com",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "cat_id": 1
+    }
+      
+  ]
+}

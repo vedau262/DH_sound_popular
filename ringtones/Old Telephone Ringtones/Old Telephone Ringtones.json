@@ -1,0 +1,554 @@
+{
+  "ringtones": [
+    {
+      "name": {
+        "en": "Cordless phone ring.wav"
+      },
+      "file_name": "cordless.mp3",
+      "author": "cbakos",
+      "author_url": "https://freesound.org/people/cbakos/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Polyphone Melody (Home Phone 3.wav)"
+      },
+      "file_name": "polyphone.mp3",
+      "author": "FunnyMan374",
+      "author_url": "https://freesound.org/people/FunnyMan374/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Ringtone: GVC desk phone"
+      },
+      "file_name": "gvc_desk_phone.mp3",
+      "author": "knufds",
+      "author_url": "https://freesound.org/people/knufds/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Cellphone ringing"
+      },
+      "file_name": "cellphone_ringing.mp3",
+      "author": "jourblue",
+      "author_url": "https://freesound.org/people/jourblue/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "sim phone ring.wav"
+      },
+      "file_name": "sim_phone_ring.mp3",
+      "author": "THE_bizniss",
+      "author_url": "https://freesound.org/people/THE_bizniss/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "phone.wav"
+      },
+      "file_name": "simple.mp3",
+      "author": "infobandit",
+      "author_url": "https://freesound.org/people/infobandit/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "1960s phone ringing (old phone ringing)"
+      },
+      "file_name": "old_phone_ringing.mp3",
+      "author": "cvp1965",
+      "author_url": "https://freesound.org/people/cvp1965/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Office phone.wav"
+      },
+      "file_name": "discreet.mp3",
+      "author": "bennstir",
+      "author_url": "https://freesound.org/people/bennstir/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "A phone go dead (phone.mp3)"
+      },
+      "file_name": "a_phone_go_dead.mp3",
+      "author": "winsx87",
+      "author_url": "https://freesound.org/people/winsx87/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Office Phone Ring"
+      },
+      "file_name": "office_ring.mp3",
+      "author": "visualasylum",
+      "author_url": "https://freesound.org/people/visualasylum/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Bank phone.wav"
+      },
+      "file_name": "bank_phone.mp3",
+      "author": "tagigobaso",
+      "author_url": "https://freesound.org/people/tagigobaso/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Modern Phone.wav"
+      },
+      "file_name": "moderated.mp3",
+      "author": "andyab",
+      "author_url": "https://freesound.org/people/andyab/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Classic (Phone_Ring.mp3)"
+      },
+      "file_name": "classic.mp3",
+      "author": "cs272",
+      "author_url": "https://freesound.org/people/cs272/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Doorbell Ringtone (SiedlePhone1)"
+      },
+      "file_name": "doorbell.mp3",
+      "author": "mzinsser",
+      "author_url": "https://freesound.org/people/mzinsser/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Modern Office (phone.wav)"
+      },
+      "file_name": "modern_office.mp3",
+      "author": "Nabito",
+      "author_url": "https://freesound.org/people/Nabito/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "S11 Ring (S11_phone-ringing.wav)"
+      },
+      "file_name": "s11_ringing.mp3",
+      "author": "ggAkatsukiP",
+      "author_url": "https://freesound.org/people/ggAkatsukiP/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Digital Phone Ring Bip (digital phone ring_bip.wav)"
+      },
+      "file_name": "digital_phone_ring_bip.mp3",
+      "author": "muses212",
+      "author_url": "https://freesound.org/people/muses212/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Toy Phone (toy_phone.wav)"
+      },
+      "file_name": "toy_phone.mp3",
+      "author": "reg7783",
+      "author_url": "https://freesound.org/people/reg7783/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Hotel Phone (Hotel Phone.wav)"
+      },
+      "file_name": "hotel_phone.mp3",
+      "author": "joeladam",
+      "author_url": "https://freesound.org/people/joeladam/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Simple Electronic Phone (Phone Ringing.wav)"
+      },
+      "file_name": "electronic.mp3",
+      "author": "Ferrettomato",
+      "author_url": "https://freesound.org/people/Ferrettomato/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Doctor's Office Phone"
+      },
+      "file_name": "doctors_office.mp3",
+      "author": "HelloImA7",
+      "author_url": "https://freesound.org/people/HelloImA7/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "my cellphone number1.wav"
+      },
+      "file_name": "speed_dial.mp3",
+      "author": "FullMetalJedi",
+      "author_url": "https://freesound.org/people/FullMetalJedi/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Notification Up II"
+      },
+      "file_name": "notification_up.mp3",
+      "author": "FoolBoyMedia",
+      "author_url": "https://freesound.org/people/FoolBoyMedia/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Legacy ringtone"
+      },
+      "file_name": "legacy.mp3",
+      "author": "chriswr",
+      "author_url": "https://freesound.org/people/chriswr/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Alarm Clock"
+      },
+      "file_name": "alarm_clock_ring.mp3",
+      "author": "alwegs",
+      "author_url": "https://freesound.org/people/alwegs/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Synthesized Ring (ring.wav)"
+      },
+      "file_name": "synthesized.mp3",
+      "author": "guitarguy1985",
+      "author_url": "https://freesound.org/people/guitarguy1985/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Foofaraw (Ringtone: Foofaraw)"
+      },
+      "file_name": "foofaraw.mp3",
+      "author": "mickleness",
+      "author_url": "https://freesound.org/people/mickleness/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "telephonering.mp3"
+      },
+      "file_name": "telephonering.mp3",
+      "author": "morgantj",
+      "author_url": "https://freesound.org/people/morgantj/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Simple ringtone"
+      },
+      "file_name": "repetitive.mp3",
+      "author": "TheZero",
+      "author_url": "https://freesound.org/people/TheZero/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Trilla 1 (trilla_01.mp3)"
+      },
+      "file_name": "trilla_1.mp3",
+      "author": "mayanxibalba",
+      "author_url": "https://freesound.org/people/mayanxibalba/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Trilla 2 (trilla_02.mp3)"
+      },
+      "file_name": "trilla_2.mp3",
+      "author": "mayanxibalba",
+      "author_url": "https://freesound.org/people/mayanxibalba/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Unignorable (gnat-ringer1.mp3)"
+      },
+      "file_name": "unignorable.mp3",
+      "author": "kevenmw",
+      "author_url": "https://freesound.org/people/kevenmw/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Perfect Message Ringtone"
+      },
+      "file_name": "perfect_message_ring.mp3",
+      "author": "xephron",
+      "author_url": "https://freesound.org/people/xephron/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Razorbloop (razorblooploopwav.wav)"
+      },
+      "file_name": "razorbloop.mp3",
+      "author": "NoiseCollector",
+      "author_url": "https://freesound.org/people/NoiseCollector/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "pop ringtone"
+      },
+      "file_name": "lullaby.mp3",
+      "author": "imthemap",
+      "author_url": "https://freesound.org/people/imthemap/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Just a Chime"
+      },
+      "file_name": "just_a_chime.mp3",
+      "author": "mabdog",
+      "author_url": "https://freesound.org/people/mabdog/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "8bit Ringtone"
+      },
+      "file_name": "8bit.mp3",
+      "author": "YXMusic",
+      "author_url": "https://freesound.org/people/YXMusic/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Kinda Creepy Ringtone"
+      },
+      "file_name": "kinda_creepy.mp3",
+      "author": "TheZero",
+      "author_url": "https://freesound.org/people/TheZero/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Incoming call - Marimba ringtone sound"
+      },
+      "file_name": "marimba_incoming_call.mp3",
+      "author": "pogmothoin",
+      "author_url": "https://freesound.org/people/pogmothoin/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Custom Synthesized Ringtone (Ringtone.wav)"
+      },
+      "file_name": "custom_synthesized.mp3",
+      "author": "swidmark",
+      "author_url": "https://freesound.org/people/swidmark/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "1NF.wav"
+      },
+      "file_name": "1_nf.mp3",
+      "author": "mickleness",
+      "author_url": "https://freesound.org/people/mickleness/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Ultra Classic (Motorola_Ultra_Classic.wav)"
+      },
+      "file_name": "ultra_classic.mp3",
+      "author": "OmegaZeta",
+      "author_url": "https://freesound.org/people/OmegaZeta/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Ring Ring (ring-ring.flac)"
+      },
+      "file_name": "ring_ring.mp3",
+      "author": "TimoLindfors",
+      "author_url": "https://freesound.org/people/TimoLindfors/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Tico Tico no Fuba (140728_Tico_Tico_no_Fuba_Chimes.wav)"
+      },
+      "file_name": "tico_tico_no_fuba_chimes.mp3",
+      "author": "reinsamba",
+      "author_url": "https://freesound.org/people/reinsamba/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Stromberg Carlson 1543.wav"
+      },
+      "file_name": "stromberg_carlson_1543.mp3",
+      "author": "Hockinfinger",
+      "author_url": "https://freesound.org/people/Hockinfinger/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Big Ben (big_ben.wav)"
+      },
+      "file_name": "big_ben.mp3",
+      "author": "reinsamba",
+      "author_url": "https://freesound.org/people/reinsamba/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Continental"
+      },
+      "file_name": "continental.mp3",
+      "author": "Tempouser",
+      "author_url": "https://freesound.org/people/Tempouser/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "malexmedia_lazymanphone_electronicring"
+      },
+      "file_name": "malexmedia_lazymanphone_electronic.mp3",
+      "author": "malexmedia",
+      "author_url": "http://www.freesound.org/people/malexmedia/",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Dreamer"
+      },
+      "file_name": "dreamer.mp3",
+      "author": "BeatProduction",
+      "author_url": "https://freesound.org/people/BeatProduction/",
+      "licence_name": "CC0 1.0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "image_url": ""
+    },
+    {
+      "name": {
+        "en": "Buzzer Alarm Sound"
+      },
+      "file_name": "buzzer.mp3",
+      "author": "Alexander",
+      "author_url": "http://www.orangefreesounds.com/",
+      "licence_name": "CC BY 4.0",
+      "licence_url": "http://creativecommons.org/licenses/by/4.0/",
+      "image_url": ""
+    }
+  ]
+}
